@@ -2,4 +2,4 @@
 
 This is a post already in productn in mster.
 
-**It deosnt have any tipos**
+**It deosnt have any typos**
